@@ -60,7 +60,7 @@ html{
           perspective: 1000px;
 }
 .styleEditor {
-  position: fixed; left: 0; top: 0;
+  position: fixed; left: 10px; top: 0;
   -webkit-transition: none;
   transition: none;
   -webkit-transform: rotateY(10deg) translateZ(-100px) ;
